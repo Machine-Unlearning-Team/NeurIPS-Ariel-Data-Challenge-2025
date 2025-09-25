@@ -12,7 +12,7 @@
 
 ## Acknowledgements
 
-Thanks to high-level guidance from student member Xiu Yuan and Prof. Cheng Su.
+Thanks to high-level guidance from student member [Xiu Yuan](https://github.com/xiuyuan0216) and Prof. Cheng Su.
 
 ## Citation
 
