@@ -1,6 +1,6 @@
 # NeurIPS-Ariel-Data-Challenge-2025-Silver-Solution
 
-🎉🎉 We achieved a silver medal (29th place, top 3%) in the latest Kaggle competition: [NeurIPS - Ariel Data Challenge 2025](https://www.kaggle.com/competitions/ariel-data-challenge-2025). See our solution at https://www.kaggle.com/code/atamazian/ensemble-final-2-with-nn-0-414-at?scriptVersionId=263697713. We are preparing a technical report in the coming months.
+🎉🎉 We achieved a silver medal (29th place, top 3%) in the latest Kaggle competition: [NeurIPS - Ariel Data Challenge 2025](https://www.kaggle.com/competitions/ariel-data-challenge-2025). See our solution at https://www.kaggle.com/competitions/ariel-data-challenge-2025/writeups/29th-discovery-and-solution. We are preparing a technical report in the coming months.
 
 ## Our Team: Machine Unlearning Team
 
